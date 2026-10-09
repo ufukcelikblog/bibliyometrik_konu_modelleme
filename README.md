@@ -1,2 +1,2 @@
-# bibliyometrik_konu_modelleme
+# Bibliyometrik Konu Modelleme
 Bibliyometrik veriler üzerinde LDA, CTM, NFM, BerTopic analizleri
